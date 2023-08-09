@@ -1,0 +1,56 @@
+object_name,path,object_size,object_type,parent_directory
+seminar_7,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8,19210,directory,python_homeworks
+seminar_8,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8,12708,directory,python_homeworks
+c_result.csv,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8,0,file,homework_8
+j_result.json,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8,0,file,homework_8
+p_result.pickle,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8,0,file,homework_8
+task_8_1_hw.py,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8,3117,file,homework_8
+homework_7,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8\seminar_7,3514,directory,homework_8
+mcqcsnx.txt,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8\seminar_7,0,file,seminar_7
+task7_1.txt,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8\seminar_7,296,file,seminar_7
+task7_2.txt,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8\seminar_7,78,file,seminar_7
+task7_3.txt,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8\seminar_7,470,file,seminar_7
+tasks.py,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8\seminar_7,6235,file,seminar_7
+task_6.py,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8\seminar_7,1644,file,seminar_7
+task_sem_7.py,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8\seminar_7,6973,file,seminar_7
+__init__.py,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8\seminar_7,0,file,seminar_7
+files_for task7,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8\seminar_7\homework_7,485,directory,seminar_7
+task,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8\seminar_7\homework_7,3029,directory,seminar_7
+3.json,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8\seminar_7\homework_7\files_for task7,0,file,files_for task7
+4.md,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8\seminar_7\homework_7\files_for task7,0,file,files_for task7
+new0001.csv,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8\seminar_7\homework_7\files_for task7,0,file,files_for task7
+task_7_1.py,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8\seminar_7\homework_7\files_for task7,485,file,files_for task7
+__init__.py,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8\seminar_7\homework_7\files_for task7,0,file,files_for task7
+__new_0001.txt,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8\seminar_7\homework_7\files_for task7,0,file,files_for task7
+__new_0002.txt,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8\seminar_7\homework_7\files_for task7,0,file,files_for task7
+__new_0003.txt,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8\seminar_7\homework_7\files_for task7,0,file,files_for task7
+dfg_new_1.txt,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8\seminar_7\homework_7\task,0,file,task
+ghj_new_2.txt,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8\seminar_7\homework_7\task,0,file,task
+task_7_1_new.py,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8\seminar_7\homework_7\task,3029,file,task
+__init__.py,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8\seminar_7\homework_7\task,0,file,task
+package_for_ working_ with_ files,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8\seminar_8,4176,directory,homework_8
+new_c.csv,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8\seminar_8,40,file,seminar_8
+new_json.json,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8\seminar_8,74,file,seminar_8
+new_json.pickle,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8\seminar_8,90,file,seminar_8
+task7_3.txt,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8\seminar_8,470,file,seminar_8
+task8_1.json,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8\seminar_8,151,file,seminar_8
+task8_1.pickle,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8\seminar_8,176,file,seminar_8
+task8_2.csv,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8\seminar_8,31,file,seminar_8
+task8_2.json,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8\seminar_8,70,file,seminar_8
+task8_2.pickle,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8\seminar_8,71,file,seminar_8
+task_8_1.py,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8\seminar_8,699,file,seminar_8
+task_8_2.py,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8\seminar_8,3082,file,seminar_8
+task_8_3.py,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8\seminar_8,836,file,seminar_8
+task_8_4.py,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8\seminar_8,1087,file,seminar_8
+task_8_5.py,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8\seminar_8,555,file,seminar_8
+task_8_6.py,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8\seminar_8,723,file,seminar_8
+task_8_7.py,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8\seminar_8,377,file,seminar_8
+new_c.csv,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8\seminar_8\package_for_ working_ with_ files,40,file,package_for_ working_ with_ files
+new_json.json,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8\seminar_8\package_for_ working_ with_ files,190,file,package_for_ working_ with_ files
+new_json.pickle,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8\seminar_8\package_for_ working_ with_ files,90,file,package_for_ working_ with_ files
+task7_3.txt,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8\seminar_8\package_for_ working_ with_ files,470,file,package_for_ working_ with_ files
+task8_1.json,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8\seminar_8\package_for_ working_ with_ files,151,file,package_for_ working_ with_ files
+task8_2.csv,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8\seminar_8\package_for_ working_ with_ files,65,file,package_for_ working_ with_ files
+task8_2.json,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8\seminar_8\package_for_ working_ with_ files,206,file,package_for_ working_ with_ files
+tasks_sem_8.py,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8\seminar_8\package_for_ working_ with_ files,2964,file,package_for_ working_ with_ files
+__init__.py,D:\ОБУЧЕНИЕ GB\Python погружение\python_homeworks\homework_8\seminar_8\package_for_ working_ with_ files,0,file,package_for_ working_ with_ files
