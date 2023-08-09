@@ -1,0 +1,291 @@
+{
+  "D:\\\u041e\u0411\u0423\u0427\u0415\u041d\u0418\u0415 GB\\Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435\\python_homeworks\\homework_8": {
+    "seminar_7": {
+      "object_size": 19210,
+      "object_type": "directory",
+      "parent_directory": "python_homeworks"
+    },
+    "seminar_8": {
+      "object_size": 12708,
+      "object_type": "directory",
+      "parent_directory": "python_homeworks"
+    },
+    "c_result.csv": {
+      "object_size": 0,
+      "object_type": "file",
+      "parent_directory": "homework_8"
+    },
+    "j_result.json": {
+      "object_size": 0,
+      "object_type": "file",
+      "parent_directory": "homework_8"
+    },
+    "p_result.pickle": {
+      "object_size": 0,
+      "object_type": "file",
+      "parent_directory": "homework_8"
+    },
+    "task_8_1_hw.py": {
+      "object_size": 3117,
+      "object_type": "file",
+      "parent_directory": "homework_8"
+    }
+  },
+  "D:\\\u041e\u0411\u0423\u0427\u0415\u041d\u0418\u0415 GB\\Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435\\python_homeworks\\homework_8\\seminar_7": {
+    "homework_7": {
+      "object_size": 3514,
+      "object_type": "directory",
+      "parent_directory": "homework_8"
+    },
+    "mcqcsnx.txt": {
+      "object_size": 0,
+      "object_type": "file",
+      "parent_directory": "seminar_7"
+    },
+    "task7_1.txt": {
+      "object_size": 296,
+      "object_type": "file",
+      "parent_directory": "seminar_7"
+    },
+    "task7_2.txt": {
+      "object_size": 78,
+      "object_type": "file",
+      "parent_directory": "seminar_7"
+    },
+    "task7_3.txt": {
+      "object_size": 470,
+      "object_type": "file",
+      "parent_directory": "seminar_7"
+    },
+    "tasks.py": {
+      "object_size": 6235,
+      "object_type": "file",
+      "parent_directory": "seminar_7"
+    },
+    "task_6.py": {
+      "object_size": 1644,
+      "object_type": "file",
+      "parent_directory": "seminar_7"
+    },
+    "task_sem_7.py": {
+      "object_size": 6973,
+      "object_type": "file",
+      "parent_directory": "seminar_7"
+    },
+    "__init__.py": {
+      "object_size": 0,
+      "object_type": "file",
+      "parent_directory": "seminar_7"
+    }
+  },
+  "D:\\\u041e\u0411\u0423\u0427\u0415\u041d\u0418\u0415 GB\\Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435\\python_homeworks\\homework_8\\seminar_7\\homework_7": {
+    "files_for task7": {
+      "object_size": 485,
+      "object_type": "directory",
+      "parent_directory": "seminar_7"
+    },
+    "task": {
+      "object_size": 3029,
+      "object_type": "directory",
+      "parent_directory": "seminar_7"
+    }
+  },
+  "D:\\\u041e\u0411\u0423\u0427\u0415\u041d\u0418\u0415 GB\\Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435\\python_homeworks\\homework_8\\seminar_7\\homework_7\\files_for task7": {
+    "3.json": {
+      "object_size": 0,
+      "object_type": "file",
+      "parent_directory": "files_for task7"
+    },
+    "4.md": {
+      "object_size": 0,
+      "object_type": "file",
+      "parent_directory": "files_for task7"
+    },
+    "new0001.csv": {
+      "object_size": 0,
+      "object_type": "file",
+      "parent_directory": "files_for task7"
+    },
+    "task_7_1.py": {
+      "object_size": 485,
+      "object_type": "file",
+      "parent_directory": "files_for task7"
+    },
+    "__init__.py": {
+      "object_size": 0,
+      "object_type": "file",
+      "parent_directory": "files_for task7"
+    },
+    "__new_0001.txt": {
+      "object_size": 0,
+      "object_type": "file",
+      "parent_directory": "files_for task7"
+    },
+    "__new_0002.txt": {
+      "object_size": 0,
+      "object_type": "file",
+      "parent_directory": "files_for task7"
+    },
+    "__new_0003.txt": {
+      "object_size": 0,
+      "object_type": "file",
+      "parent_directory": "files_for task7"
+    }
+  },
+  "D:\\\u041e\u0411\u0423\u0427\u0415\u041d\u0418\u0415 GB\\Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435\\python_homeworks\\homework_8\\seminar_7\\homework_7\\task": {
+    "dfg_new_1.txt": {
+      "object_size": 0,
+      "object_type": "file",
+      "parent_directory": "task"
+    },
+    "ghj_new_2.txt": {
+      "object_size": 0,
+      "object_type": "file",
+      "parent_directory": "task"
+    },
+    "task_7_1_new.py": {
+      "object_size": 3029,
+      "object_type": "file",
+      "parent_directory": "task"
+    },
+    "__init__.py": {
+      "object_size": 0,
+      "object_type": "file",
+      "parent_directory": "task"
+    }
+  },
+  "D:\\\u041e\u0411\u0423\u0427\u0415\u041d\u0418\u0415 GB\\Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435\\python_homeworks\\homework_8\\seminar_8": {
+    "package_for_ working_ with_ files": {
+      "object_size": 4176,
+      "object_type": "directory",
+      "parent_directory": "homework_8"
+    },
+    "new_c.csv": {
+      "object_size": 40,
+      "object_type": "file",
+      "parent_directory": "seminar_8"
+    },
+    "new_json.json": {
+      "object_size": 74,
+      "object_type": "file",
+      "parent_directory": "seminar_8"
+    },
+    "new_json.pickle": {
+      "object_size": 90,
+      "object_type": "file",
+      "parent_directory": "seminar_8"
+    },
+    "task7_3.txt": {
+      "object_size": 470,
+      "object_type": "file",
+      "parent_directory": "seminar_8"
+    },
+    "task8_1.json": {
+      "object_size": 151,
+      "object_type": "file",
+      "parent_directory": "seminar_8"
+    },
+    "task8_1.pickle": {
+      "object_size": 176,
+      "object_type": "file",
+      "parent_directory": "seminar_8"
+    },
+    "task8_2.csv": {
+      "object_size": 31,
+      "object_type": "file",
+      "parent_directory": "seminar_8"
+    },
+    "task8_2.json": {
+      "object_size": 70,
+      "object_type": "file",
+      "parent_directory": "seminar_8"
+    },
+    "task8_2.pickle": {
+      "object_size": 71,
+      "object_type": "file",
+      "parent_directory": "seminar_8"
+    },
+    "task_8_1.py": {
+      "object_size": 699,
+      "object_type": "file",
+      "parent_directory": "seminar_8"
+    },
+    "task_8_2.py": {
+      "object_size": 3082,
+      "object_type": "file",
+      "parent_directory": "seminar_8"
+    },
+    "task_8_3.py": {
+      "object_size": 836,
+      "object_type": "file",
+      "parent_directory": "seminar_8"
+    },
+    "task_8_4.py": {
+      "object_size": 1087,
+      "object_type": "file",
+      "parent_directory": "seminar_8"
+    },
+    "task_8_5.py": {
+      "object_size": 555,
+      "object_type": "file",
+      "parent_directory": "seminar_8"
+    },
+    "task_8_6.py": {
+      "object_size": 723,
+      "object_type": "file",
+      "parent_directory": "seminar_8"
+    },
+    "task_8_7.py": {
+      "object_size": 377,
+      "object_type": "file",
+      "parent_directory": "seminar_8"
+    }
+  },
+  "D:\\\u041e\u0411\u0423\u0427\u0415\u041d\u0418\u0415 GB\\Python \u043f\u043e\u0433\u0440\u0443\u0436\u0435\u043d\u0438\u0435\\python_homeworks\\homework_8\\seminar_8\\package_for_ working_ with_ files": {
+    "new_c.csv": {
+      "object_size": 40,
+      "object_type": "file",
+      "parent_directory": "package_for_ working_ with_ files"
+    },
+    "new_json.json": {
+      "object_size": 190,
+      "object_type": "file",
+      "parent_directory": "package_for_ working_ with_ files"
+    },
+    "new_json.pickle": {
+      "object_size": 90,
+      "object_type": "file",
+      "parent_directory": "package_for_ working_ with_ files"
+    },
+    "task7_3.txt": {
+      "object_size": 470,
+      "object_type": "file",
+      "parent_directory": "package_for_ working_ with_ files"
+    },
+    "task8_1.json": {
+      "object_size": 151,
+      "object_type": "file",
+      "parent_directory": "package_for_ working_ with_ files"
+    },
+    "task8_2.csv": {
+      "object_size": 65,
+      "object_type": "file",
+      "parent_directory": "package_for_ working_ with_ files"
+    },
+    "task8_2.json": {
+      "object_size": 206,
+      "object_type": "file",
+      "parent_directory": "package_for_ working_ with_ files"
+    },
+    "tasks_sem_8.py": {
+      "object_size": 2964,
+      "object_type": "file",
+      "parent_directory": "package_for_ working_ with_ files"
+    },
+    "__init__.py": {
+      "object_size": 0,
+      "object_type": "file",
+      "parent_directory": "package_for_ working_ with_ files"
+    }
+  }
+}
