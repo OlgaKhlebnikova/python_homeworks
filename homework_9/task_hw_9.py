@@ -47,7 +47,7 @@ def save_to_json(func):
     def wrapper(*args):
         roots = func(*args)
         solve_dict = {'a': args[0], 'b': args[1], 'c': args[2], 'roots': roots}
-        res_key = f'{datetime.datetime.now()}'[:-7]
+        res_key = f'{datetime.datetime.now().strftime("%d-%m-%Y-%H.%M.%S")}'
         my_res[res_key] = my_res.get(res_key) + [solve_dict] if my_res.get(res_key) else [solve_dict]
         with open(j_file, 'w', encoding='UTF-8', ) as file:
             json.dump(my_res, file, indent=2, ensure_ascii=False)
